@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS , JS , ReactJS , MangoDB**
 
 - 📫 How to reach me **sandysanthosh3487@gmail.com**
 
